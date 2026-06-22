@@ -76,7 +76,7 @@ Or double-click the file in your file explorer.
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
 > *Replace the placeholder image above with an actual screenshot of your page.*
 
