@@ -1,4 +1,4 @@
-# 🧴 PureWash – Hand Wash Brand Landing Page
+# PureWash – Hand Wash Brand Landing Page
 
 A clean, modern, and responsive landing page for a premium hand wash brand. Built with HTML & CSS — no frameworks, no bloat.
 
