@@ -60,7 +60,7 @@ Or double-click the file in your file explorer.
 
 ---
 
-## 🎨 Customization
+## Customization
 
 - **Colors** – Edit the CSS variables in the `<style>` section (e.g., `#1e2b2c`, `#3b8b7a`)
 - **Products** – Modify the `.product-card` blocks to change names, prices, or icons
