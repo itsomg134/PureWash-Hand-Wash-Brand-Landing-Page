@@ -94,19 +94,3 @@ MIT – free to use, modify, and distribute.
 - Font by [Google Fonts](https://fonts.google.com)
 - Design inspired by modern clean beauty brands
 
----
-
-## 🤝 Contributing
-
-Suggestions and improvements are welcome! Feel free to open an issue or submit a pull request.
-
----
-
-## 📬 Contact
-
-For any questions, reach out via [your email] or open an issue on GitHub.
-
----
-
-**Made with 🧼 and care.**
-```
