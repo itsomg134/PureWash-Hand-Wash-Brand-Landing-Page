@@ -6,16 +6,16 @@ A clean, modern, and responsive landing page for a premium hand wash brand. Buil
 
 ---
 
-## ✨ Features
+## Features
 
-- 🖐️ **Hero section** with product highlight and call-to-action
-- 🌿 **Feature badges** (plant-based, dermatologist tested, eco-packaging)
-- 🧴 **Product grid** displaying 4 hand wash variants
-- ⭐ **Testimonial** block for social proof
-- 📬 **Newsletter subscription** CTA
-- 📱 **Fully responsive** – works on mobile, tablet, and desktop
-- 🎨 **Clean, warm aesthetic** with a nature-inspired color palette
-- 🔤 **Google Fonts** (Inter) and **Font Awesome** icons
+-  **Hero section** with product highlight and call-to-action
+-  **Feature badges** (plant-based, dermatologist tested, eco-packaging)
+-  **Product grid** displaying 4 hand wash variants
+-  **Testimonial** block for social proof
+-  **Newsletter subscription** CTA
+-  **Fully responsive** – works on mobile, tablet, and desktop
+-  **Clean, warm aesthetic** with a nature-inspired color palette
+-  **Google Fonts** (Inter) and **Font Awesome** icons
 
 ---
 
