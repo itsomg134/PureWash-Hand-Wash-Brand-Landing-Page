@@ -82,7 +82,7 @@ Or double-click the file in your file explorer.
 
 ---
 
-## 📄 License
+## License
 
 MIT – free to use, modify, and distribute.
 
