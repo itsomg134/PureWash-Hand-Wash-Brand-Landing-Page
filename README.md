@@ -2,7 +2,6 @@
 
 A clean, modern, and responsive landing page for a premium hand wash brand. Built with HTML & CSS — no frameworks, no bloat.
 
-![PureWash preview](https://via.placeholder.com/800x400?text=PureWash+Landing+Page)
 
 ---
 
