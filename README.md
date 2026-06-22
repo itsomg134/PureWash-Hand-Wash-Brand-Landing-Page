@@ -88,7 +88,7 @@ MIT – free to use, modify, and distribute.
 
 ---
 
-## 🙌 Credits
+## Credits
 
 - Icons by [Font Awesome](https://fontawesome.com)
 - Font by [Google Fonts](https://fonts.google.com)
