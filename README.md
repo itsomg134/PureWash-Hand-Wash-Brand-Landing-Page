@@ -19,7 +19,7 @@ A clean, modern, and responsive landing page for a premium hand wash brand. Buil
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **HTML5**
 - **CSS3** (Flexbox, Grid, custom properties)
@@ -30,7 +30,7 @@ A clean, modern, and responsive landing page for a premium hand wash brand. Buil
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 hand-wash-website/
