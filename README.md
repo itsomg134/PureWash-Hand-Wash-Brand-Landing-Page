@@ -69,7 +69,7 @@ Or double-click the file in your file explorer.
 
 ---
 
-## 📱 Responsive Breakpoints
+## Responsive Breakpoints
 
 - **Desktop-first** – scales down gracefully
 - **Tablet & mobile** – stack layout, smaller typography, adjusted padding
