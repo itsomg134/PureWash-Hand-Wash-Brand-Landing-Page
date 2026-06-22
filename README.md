@@ -2,6 +2,7 @@
 
 A clean, modern, and responsive landing page for a premium hand wash brand. Built with HTML & CSS — no frameworks, no bloat.
 
+<img width="1887" height="2063" alt="image" src="https://github.com/user-attachments/assets/f23dfdf6-4e9d-44d5-be86-aac07dd5bf06" />
 
 ---
 
